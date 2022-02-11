@@ -29,7 +29,7 @@ Página foi criada como exercício do módulo 8 do curso **HTML5 e CSS3** da B7W
 
   
 
-<h1 align="center"> <img alt="Preview" src="https://uploaddeimagens.com.br/images/003/719/941/full/Tribute.jpg" /> </h1>
+<p align="center"> <img alt="Preview" src="https://uploaddeimagens.com.br/images/003/719/941/full/Tribute.jpg" /> 
 
   
 
@@ -39,10 +39,7 @@ Página foi criada como exercício do módulo 8 do curso **HTML5 e CSS3** da B7W
 
 ### Tecnologias utilizadas
 
-  
-
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png =100x)![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png =100x )
-
+ <img alt="Preview" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png " style="width:100px;"/> <img alt="Preview" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png " style="width:100px;"/> 
   
 
 ### Redes sociais
